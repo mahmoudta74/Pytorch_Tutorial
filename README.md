@@ -1,3 +1,4 @@
 # Pytorch_Tutorial
 
-first
+## first session:
+!- f;lk 
