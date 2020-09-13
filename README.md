@@ -7,6 +7,6 @@
 ## table of content
 
 - Basics
- - Tensor
+  - Tensor
 
 
