@@ -1,6 +1,6 @@
 # Pytorch_Tutorial
 
-![alt text here](https://miro.medium.com/max/700/1*myMaRWYYzlFYnLfRyqAC3w.png "Title: pytorch logo")
+![alt text here](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/pytorch-logo-flat-300x210.png "Title: pytorch logo")
 
 [pytorch_website](https://pytorch.org/)
 
