@@ -8,5 +8,6 @@
 
 - [Basics](https://github.com/mahmoudta74/Pytorch_Tutorial/blob/master/Basics.ipynb)
   - Tensor
+  - Gradent
 
 
