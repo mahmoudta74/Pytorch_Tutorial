@@ -9,5 +9,7 @@
 - [Basics](https://github.com/mahmoudta74/Pytorch_Tutorial/blob/master/Basics.ipynb)
   - Tensor
   - Gradent
-
+- [Tensorboard](https://github.com/mahmoudta74/Pytorch_Tutorial/blob/master/Tensorboard.ipynb)
+  - Tensorboard initializing and intro
+  - Hyperparameter tuning with tensorboard
 
